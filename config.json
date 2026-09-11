@@ -1,0 +1,9 @@
+{
+  "api_url": "http://103.165.145.56:3000",
+  "ws_url": "ws://103.165.145.56:3000/ws",
+  "room": {
+    "enabled": false,
+    "roomId": "",
+    "bootstrapUrl": ""
+  }
+}
