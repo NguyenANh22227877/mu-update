@@ -1,6 +1,6 @@
 {
-  "api_url": "https://rely-beaches-praise-referred.trycloudflare.com",
-  "ws_url": "wss://rely-beaches-praise-referred.trycloudflare.com/ws",
+  "api_url": "https://api.novazet.net",
+  "ws_url": "wss://api.novazet.net/ws",
   "room": {
     "enabled": false,
     "roomId": "",
