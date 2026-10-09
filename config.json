@@ -1,6 +1,6 @@
 {
-  "api_url": "http://127.0.0.1:3000",
-  "ws_url": "ws://127.0.0.1:3000/ws",
+  "api_url": "https://rely-beaches-praise-referred.trycloudflare.com",
+  "ws_url": "wss://rely-beaches-praise-referred.trycloudflare.com/ws",
   "room": {
     "enabled": false,
     "roomId": "",
