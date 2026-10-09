@@ -1,0 +1,9 @@
+{
+  "api_url": "https://api.novazet.net",
+  "ws_url": "wss://api.novazet.net/ws",
+  "room": {
+    "enabled": false,
+    "roomId": "",
+    "bootstrapUrl": ""
+  }
+}
